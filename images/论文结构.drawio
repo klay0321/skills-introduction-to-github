@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.8">
+  <diagram name="第 1 页" id="PPpE-Jw7pxWeOkip61rG">
+    <mxGraphModel dx="2962" dy="1256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-48" target="CxowyYTJ_sJW2CtId0G2-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-48" value="基于动态权重Stacking集成与深度语义分析的信用评分模型优化研究" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="217" y="39" width="393.5" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-50" target="CxowyYTJ_sJW2CtId0G2-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-50" value="1.1 信用评分研究背景与意义" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="253.75" y="139" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-51" target="CxowyYTJ_sJW2CtId0G2-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-51" value="1.2 集成学习与NLP在金融领域的应用现状" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="205.75" y="203" width="416" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-52" target="CxowyYTJ_sJW2CtId0G2-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-52" value="1.3 现有研究的局限性分析" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="253.75" y="271" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-53" target="CxowyYTJ_sJW2CtId0G2-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-53" value="1.4 本文研究内容与技术路线" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="253.75" y="339" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-54" target="CxowyYTJ_sJW2CtId0G2-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-54" target="CxowyYTJ_sJW2CtId0G2-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-54" target="CxowyYTJ_sJW2CtId0G2-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-54" value="2. 相关背景知识介绍" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="253.75" y="415" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-55" target="CxowyYTJ_sJW2CtId0G2-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-55" value="结构化与非结构化数据融合" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipH=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="288.75" y="540" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-56" value="特征提取与表示方法" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipH=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-57" value="模型可解释性理论" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipH=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="10" y="540" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-58" target="CxowyYTJ_sJW2CtId0G2-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-58" target="CxowyYTJ_sJW2CtId0G2-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-58" target="CxowyYTJ_sJW2CtId0G2-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-58" value="网络架构设计" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipV=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="335.75" y="634" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-59" target="CxowyYTJ_sJW2CtId0G2-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-59" value="基模型选择与优化" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipH=1;flipV=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="319.75" y="751" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-60" value="注意力机制设计" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipH=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="545.5" y="754" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-61" value="动态权重分配策略" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipH=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="94" y="756" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-62" target="CxowyYTJ_sJW2CtId0G2-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-62" target="CxowyYTJ_sJW2CtId0G2-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="CxowyYTJ_sJW2CtId0G2-62" target="CxowyYTJ_sJW2CtId0G2-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-62" value="实验结果与分析" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipV=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="327.75" y="868" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-63" value="实验环境与数据集" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipV=1;flipH=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="319.75" y="978" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-64" value="性能评估指标" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipH=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="564" y="982" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-65" value="模型对比与有效性分析" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipH=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="71" y="982" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-66" value="总结与建议" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Courier New;fontSize=20;flipV=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="343.75" y="1065" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-110" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;opacity=10;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="118.25" y="124" width="619.75" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-111" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="7" y="409" width="808" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-112" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="44" y="626" width="759" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="CxowyYTJ_sJW2CtId0G2-113" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=10;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="44" y="850" width="723" height="194" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
